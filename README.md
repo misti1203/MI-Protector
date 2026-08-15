@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/mi-protector-overview.svg" alt="MI-Protector framework overview" width="100%">
+  <img src="assets/mi-protector-overview.png" alt="MI-Protector framework overview" width="100%">
 </p>
 
 ## Overview
