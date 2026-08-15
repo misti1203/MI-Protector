@@ -16,8 +16,7 @@
 
 [Paper](https://www.sciencedirect.com/science/article/pii/S156625352500884X) ·
 [DOI](https://doi.org/10.1016/j.inffus.2025.103822) ·
-[Datasets](docs/DATASETS.md) ·
-[Reproducibility](docs/REPRODUCIBILITY.md) ·
+[Datasets](docs/DATASETS.md) · ·
 [Citation](#citation)
 
 </div>
